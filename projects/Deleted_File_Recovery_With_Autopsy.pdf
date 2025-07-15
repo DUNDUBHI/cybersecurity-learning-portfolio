@@ -1,0 +1,19 @@
+# 🛠️ Deleted File Recovery using Autopsy
+
+## Objective:
+To analyze a forensic disk image using Autopsy and recover deleted images and documents.
+
+## Steps Followed:
+1. Loaded the `.E01` disk image into Autopsy
+2. Navigated to File Types → Images and Documents
+3. Identified deleted files (marked red) using metadata
+4. Recovered the deleted files and documented timestamps
+
+## Tools Used:
+- Autopsy (Windows/Linux)
+- FTK Imager (to generate disk image)
+
+## Outcome:
+Successfully retrieved deleted .JPG and .DOCX files. Learned to trace activity timelines and correlate file history.
+
+📷 Screenshots included in `/evidence/` folder.
