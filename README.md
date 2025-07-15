@@ -57,6 +57,6 @@ Let’s Connect
 
 - 🔗 [LinkedIn – Coming Soon]  
 - 💼 Open to: Internships (Remote/Dubai), Training, Collaboration  
-- ✉️ Email: *[add your email here]*  
+- ✉️ Email: *[dundu2410@gmail.com]*  
 
 > Thank you for visiting my portfolio — feedback and suggestions are always welcome!
