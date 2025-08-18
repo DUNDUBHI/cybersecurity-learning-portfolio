@@ -30,6 +30,7 @@ Welcome to my cybersecurity portfolio! I am currently pursuing my MCA in Cyberse
 
 - ✅ [Google – Foundations of Cybersecurity (Coursera)](./certifications/Google_Foundations_of_Cybersecurity.pdf)
 - 📅 More certifications planned: CHFI, TryHackMe paths, EC-Council Forensics Essentials
+- Completed Play it safe Certification from Google (COURSERA).
 
 ---
 
