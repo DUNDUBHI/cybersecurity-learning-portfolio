@@ -1,0 +1,29 @@
+# 📨 Corporate Email Breach Investigation
+
+## 📌 Overview
+This project demonstrates a **digital forensics investigation** of a suspicious corporate email suspected to be part of a phishing campaign.  
+The analysis was performed entirely in **Kali Linux**, using forensic tools and command-line techniques.
+
+## 🔧 Tools Used
+- Kali Linux 2024.x  
+- ripgrep (keyword search)  
+- hashdeep / sha256sum (file integrity)  
+- less & grep (email parsing)  
+- mbox utilities (email format handling)  
+
+## 🕵️ Investigation Highlights
+- Extracted email headers to identify spoofed sender  
+- Found a **malicious phishing URL** impersonating the company  
+- Preserved chain-of-custody with hashing  
+- Documented findings in a forensic-style report  
+
+## 📑 Deliverables
+- [Corporate Email Breach Report (PDF)](./Corporate_Email_Breach_Report.pdf)  
+- Evidence folder (screenshots, sanitized .mbox file)  
+
+## 🎯 Key Learning
+This project strengthened my ability to:
+- Handle and analyze `.mbox` files  
+- Identify phishing indicators (IOCs)  
+- Write structured forensic reports  
+- Apply real-world investigation methodology  
